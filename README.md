@@ -2,7 +2,7 @@
 WeThinkCode JAVA Course
 
 **Exercises for Submission **
-FizzBuzz
+FizzBuzz\n
 Hangman
 Mastermind
 Toy Robot Walkthrough
